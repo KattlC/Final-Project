@@ -15,6 +15,7 @@ El juego ha sido desarrollado utilizando Visual Studio Code como entorno de desa
 
  
  Colaboradores:
+ 
 •	Caiza Katherine 
 
 •	Molina Dayana
